@@ -1,5 +1,5 @@
 ![logo](https://github.com/ManasaKRao/ManasaKRao/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Manasa K Rao</h1>
+<h1 align="center">Namaste 🙏, I'm Manasa K Rao</h1>
 <h3 align="center">"🌱 Budding coder on a quest for excellence, planting seeds of creativity in the code garden; crafting my digital footprint on GitHub with passion, persistence, and a sprinkle of emojis! 🚀✨ #CodeExplorer"</h3>
 
 <img align="right" alt="cat and codes" width="300" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
