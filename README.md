@@ -1,6 +1,4 @@
-Here’s an enhanced and more attractive version of your README, keeping the essence intact while making it visually engaging:
 
----
 
 ![logo](https://github.com/ManasaKRao/ManasaKRao/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png)
 
@@ -89,6 +87,4 @@ Here’s an enhanced and more attractive version of your README, keeping the ess
   </a> 
 </p>
 
----
 
-This version adds more visual elements with line breaks, emojis, and aligned sections for a more aesthetic and appealing presentation. Feel free to replace the image links if needed!
