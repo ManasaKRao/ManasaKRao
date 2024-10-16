@@ -1,5 +1,4 @@
-![logo](https://www.canva.com/design/DAGTt79cGs8/ZfygrCuELAuB3WurRVZhvQ/edit?utm_content=DAGTt79cGs8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+[![MasterHead](https://www.canva.com/design/DAGTt79cGs8/ZfygrCuELAuB3WurRVZhvQ/edit?utm_content=DAGTt79cGs8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Manasa K Rao</h1>
 <h3 align="center">Passionate Software Enthusiast | Learning, Building, and Evolving with Every Line of Code</h3>
 
@@ -15,7 +14,7 @@
 
 - 🤝 I’m a MCA graduate at **Manipal Institute of Technology**
 
-- 📝 I regularly write articles on [Geeks For Geeks](Geeks For Geeks)
+- 📝 I regularly write articles on "Geeks For Geeks"
 
 - 💬 Ask me about **C++,Java,Python,Html,Css,Javascript,ReactJs,ReactNative,GenAi**
 
