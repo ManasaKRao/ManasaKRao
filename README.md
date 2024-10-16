@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **raomanasa133@gmail.com**
 
-- ⚡ Fun fact **I'm a passionate coder and proud cat parent who loves curling up with a romcom or diving into productivity books—because who says you can't code, laugh, and boost your efficiency all in one day?**
+- ⚡ Fun fact-> **I'm a passionate coder and proud cat parent who loves curling up with a romcom or diving into productivity books—because who says you can't code, laugh, and boost your efficiency all in one day?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
