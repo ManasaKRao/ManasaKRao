@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=16uHUYk7RWNUmMpQT8qWZxvr63J8mNVxa)]
+![MasterHead](https://drive.google.com/uc?export=view&id=16uHUYk7RWNUmMpQT8qWZxvr63J8mNVxa)
 
 <h1 align="center">Hi 👋, I'm Manasa K Rao</h1>
 <h3 align="center">Passionate Software Enthusiast | Learning, Building, and Evolving with Every Line of Code</h3>
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Web | Android Projects**
 
-- 🤝 I’m a MCA graduate at **Manipal Institute of Technology**
+- 🤝 I’m a MCA graduate from **Manipal Institute of Technology**
 
 - 📝 I regularly write articles on "Geeks For Geeks"
 
